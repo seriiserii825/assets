@@ -1,0 +1,52 @@
+//100	Тонкий (Волосяной) Thin (Hairline)
+//200	Дополнительный светлый (Сверхсветлый) Extra Light (Ultra Light)
+//300	Светлый Light
+//400	Нормальный Normal
+//500	Средний Medium
+//600	Полужирный Semi Bold (Demi Bold)
+//700	Жирный Bold
+//800	Дополнительный жирный (Сверхжирный) Extra Bold (Ultra Bold)
+//900	Черный (Густой)Black (Heavy)
+
+@font-face {
+	font-family: 'Domaine Sans Text';
+	src: url("../fonts/DomaineSansTextRegular.woff2") format('woff2'), url("../fonts/DomaineSansTextRegular.woff") format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+  font-family: 'Domaine Sans Text';
+  src: url("../fonts/DomaineSansTextMedium.woff2") format('woff2'), url("../fonts/DomaineSansTextMedium.woff") format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Domaine Sans Text';
+  src: url("../fonts/DomaineSansTextBold.woff2") format('woff2'), url("../fonts/DomaineSansTextBold.woff") format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Domaine Sans Text';
+  src: url("../fonts/DomaineSansTextLight.woff2") format('woff2'), url("../fonts/DomaineSansTextLight.woff") format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Domaine Sans Text';
+  src: url("../fonts/DomaineSansTextItalic.woff2") format('woff2'), url("../fonts/DomaineSansTextItalic.woff") format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+//@font-face {
+//	font-family: 'Work Sans Bold';
+//	src: url("../fonts/worksans-bold.ttf") format('ttf');
+//	font-weight: normal;
+//	font-style: normal;
+//}
+//@font-face {
+//	font-family: 'Franklink Gothik Book';
+//	src: url("../fonts/franklin-gothic-book.ttf") format('ttf');
+//	font-weight: normal;
+//	font-style: normal;
+//}
